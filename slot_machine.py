@@ -1,3 +1,4 @@
+#Slot Machine Code
 import random
 
 MAX_LINES = 3
